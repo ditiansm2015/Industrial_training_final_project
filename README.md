@@ -1,2 +1,2 @@
 # Summer Internship
-This repository  has final project done as part of Industrial Training 2018. It contains EDA Report on Big Mart Sales dataset and regressions performed on it
+This repository contains project done as part of Summer Training -  2018. It contains EDA Report on Big Mart Sales dataset and regressions performed on it
